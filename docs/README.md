@@ -6,9 +6,9 @@ features:
 - title: 基础知识
   details: 从html、css、js三方面展示基础。
 - title: 常用工具
-  details: 作者工作中用到的各种工具最佳使用，带你了解工作中各种工具配置。
+  details: 作者工作中用到的各种工具最佳使用，了解工作中各种工具配置。
 - title: 工作中的坑
-  details: 作者工作中遇到的坑，带你绕路前进。
+  details: 作者工作中遇到的坑，少走弯路，快速前进。
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
 - title: Vue驱动
