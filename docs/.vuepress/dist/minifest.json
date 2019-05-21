@@ -1,0 +1,16 @@
+{
+  "name": "whq",
+  "short_name": "whq",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "个人主页",
+  "theme_color": "blue",
+  "icons": [
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
