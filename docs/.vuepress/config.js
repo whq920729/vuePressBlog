@@ -11,10 +11,11 @@ module.exports = {
   },
   themeConfig: {
     nav:[ // 导航栏配置
-      {text: '基础', link: '/base/' },
-      {text: '常用工具', link: '/devtool/'},
-      {text: '工作问题', link: '/work/'},
-      {text: '博客园', link: 'https://www.cnblogs.com/whq920729/'}      
+      // {text: '基础', link: '/base/' },
+      // {text: '常用工具', link: '/devtool/'},
+      // {text: '工作问题', link: '/work/'},
+      // {text: '博客园', link: 'https://www.cnblogs.com/whq920729/'}
+      {text: '述职报告', link: '/report/' },
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2, // 侧边栏显示2级
